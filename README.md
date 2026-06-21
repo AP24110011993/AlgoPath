@@ -37,13 +37,10 @@ Students need to study smartly:
 1. What is the easiest path from a beginner topic (Arrays) to an advanced topic (Dynamic Programming)?
 2. Which topics should I study given only 10 hours, to maximize my preparation score?
 
-## 👥 Team Members
-
+   
+## 🤚🏻 Submitted by 
 - Sk Neelofar-AP24110011993
-- Mythri Sarla-AP24110012034
-- Shaik Nazma-AP24110012002
-- Sahasra Anumolu-AP24110012025
-- Teena Kotapati-AP24110011905
+
 
 ## 🏫 Submitted to
 
