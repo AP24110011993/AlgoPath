@@ -24,12 +24,19 @@ A web-based project demonstrating **Greedy** and **Dynamic Programming** algorit
 2. Open `index.html` in any browser — no installation needed
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/algopath
-cd algopath
-open index.html
+git clone https://github.com/AP24110011993/AlgoPath.git
+cd AlgoPath
 ```
 
 ## 📁 Project Structure
+
+AlgoPath/
+├── index.html
+├── style.css
+├── greedy.js
+├── dp.js
+├── LICENSE
+└── README.md
 
 ## 💡 Problem Statement
 
